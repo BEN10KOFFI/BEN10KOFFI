@@ -27,7 +27,7 @@
 ### 🛠️ Tools & Skills
 
 `Python` | `PyTorch` | `Numpy` | `Matplotlib` | `LaTeX` | `Git`  
-Machine Learning · Deep Learning · Scientific Computing · Optimization · AI for Public Good
+Machine Learning · Deep Learning · Scientific Computing · Optimization 
 
 ---
 
