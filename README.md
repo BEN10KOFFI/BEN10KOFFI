@@ -18,9 +18,9 @@
 
 ### 📚 MITx Certifications
 
-- [Machine Learning with Python (MITx, 2023)](https://courses.edx.org/certificates/62a42842132c4265ad152d57726be0b3)  
-- [Fundamentals of Statistics (MITx, 2023)](https://courses.edx.org/certificates/e24fadc11c6641c78f3e6f0e69b4d2a4)  
-- [Probability – Science of Uncertainty (MITx, 2023)](https://courses.edx.org/certificates/7a7face64b88439598bf490f741b2392)
+- [6.86x: Machine Learning with Python-From Linear Models to Deep Learning (MITx, 2023)](https://courses.edx.org/certificates/62a42842132c4265ad152d57726be0b3)  
+- [18.6501x: Fundamentals of Statistics (MITx, 2023)](https://courses.edx.org/certificates/e24fadc11c6641c78f3e6f0e69b4d2a4)  
+- [6.431x: Probability - The Science of Uncertainty and Data (MITx, 2023)](https://courses.edx.org/certificates/7a7face64b88439598bf490f741b2392)
 
 ---
 
